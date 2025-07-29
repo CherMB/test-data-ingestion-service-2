@@ -1,4 +1,5 @@
 # Testing Implicit scans - copy of Reports Service Repo for findings
+# General Implicit scanner case
 
 Cloudbees SaaS platform Reports-service manage data for VSM metrics/Widget.
 
