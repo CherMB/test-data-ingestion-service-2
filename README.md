@@ -10,3 +10,4 @@ Cloudbees SaaS platform Reports-service manage data for VSM metrics/Widget.
 - The Mapping is currently in Repo. Will be moved to Cassandra DB to support Custom Widgets later on
 - The Framework will also maintain UI layout definition
 - Opensearch Client intergated to execute search queries. 
+ 
