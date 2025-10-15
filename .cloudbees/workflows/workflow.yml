@@ -363,3 +363,4 @@ jobs:
                 SERVICE_REPOSITORY: ${{ cloudbees.scm.branch == 'main' && 'repository-service.query.consul:8100' || 'repository-service:8100' }}
                 SERVICE_SECRET: ${{ cloudbees.scm.branch == 'main' && 'secret-service.query.consul:8087' || 'secret-service:8087' }}
                 OPENSEARCH_USE_SECRET: ${{ cloudbees.scm.branch == 'main' }}
+ 
